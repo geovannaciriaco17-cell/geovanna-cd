@@ -27,7 +27,7 @@ Documentação e entregas referentes ao Projeto Integrador.
 
 Organizar e centralizar os documentos produzidos durante as disciplinas, facilitando o acesso, a consulta e o compartilhamento dos materiais acadêmicos.
 
-## Tecnologias Utilizadas
+## Tecnolo. Utilizadas
 
 - Git
 - GitHub
